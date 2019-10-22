@@ -1,0 +1,15 @@
+{
+  "name": "com.eltima.folx.host",
+  "description": "Folx Native Messaging API Host",
+  "path": "@",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://eddlamckmcmkameoolcojoapbakigamp/",/*from chrome store current ext*/
+    "chrome-extension://dihihkemnkjafhkdihpgaeojecpnibic/",/*testing from crx*/
+    "chrome-extension://kojkhabgmpnnkkofdmgfbiblgkcedkbg/",/*from chrome store*/
+    "chrome-extension://fhckflkmmjlkfboehfdfpjmlnijpppcc/",/*from opera store*/
+    "chrome-extension://ejibgnihkphelojehlebjgeakcngfaog/"/*from opera store*/
+                      
+  ]
+    
+}

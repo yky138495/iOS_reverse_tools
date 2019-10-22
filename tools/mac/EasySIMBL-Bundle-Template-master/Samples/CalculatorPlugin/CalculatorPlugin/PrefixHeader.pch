@@ -1,0 +1,16 @@
+//
+//  PrefixHeader.pch
+//  CalculatorPlugin
+//
+//  Created by Jobs on 16/2/14.
+//  Copyright (c) 2015年 Jobs. All rights reserved.
+//
+
+#ifndef CalculatorPlugin_PrefixHeader_pch
+#define CalculatorPlugin_PrefixHeader_pch
+
+#import <Cocoa/Cocoa.h>
+#import "JRSwizzle.h"
+
+#endif
+

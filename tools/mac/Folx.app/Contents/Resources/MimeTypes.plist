@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>extensions</key>
+	<array>
+		<string>exe</string>
+		<string>zip</string>
+		<string>aac</string>
+		<string>rar</string>
+		<string>aa</string>
+		<string>doc</string>
+		<string>gz,tgz</string>
+		<string>mp3</string>
+		<string>dmg</string>
+		<string>ppt</string>
+		<string>prc</string>
+		<string>dmg</string>
+		<string>zip</string>
+		<string>tgz</string>
+		<string>sit</string>
+		<string>torrent</string>
+		<string>mp3</string>
+		<string>zip</string>
+		<string>sitx,sit</string>
+		<string>hqx</string>
+		<string>mp3</string>
+		<string>mpg,mpeg</string>
+		<string>rar</string>
+		<string>aa</string>
+		<string>mp3</string>
+		<string>mp3</string>
+		<string>mp3</string>
+		<string>wmv</string>
+		<string>avi</string>
+		<string>gz,tgz,tar</string>
+		<string>dmg</string>
+		<string>taz</string>
+		<string>dmg</string>
+		<string>shn</string>
+		<string>flac</string>
+		<string>cpt</string>
+		<string>urls</string>
+		<string>mp3</string>
+		<string>avi,wmv</string>
+		<string>mpg,mpeg</string>
+		<string>shn</string>
+		<string>bin</string>
+		<string>pdb</string>
+		<string>zip</string>
+		<string>dmg</string>
+		<string>dmg</string>
+		<string>pdf</string>
+		<string>mp4,avi,mp3,rar,bin,bz2,gz,dmg,tgz,lha,lzh,exe,tar</string>
+		<string>qtz</string>
+		<string>bin</string>
+		<string>wmv</string>
+		<string>xls</string>
+		<string>sit</string>
+		<string>bz2,tbz</string>
+		<string>ps,eps</string>
+		<string>avi</string>
+		<string>wmv</string>
+		<string>asf</string>
+		<string>mp4,mpg4</string>
+		<string>dmg</string>
+		<string>dvi</string>
+		<string>bz2</string>
+		<string>bz2</string>
+		<string>exe</string>
+		<string>rar</string>
+		<string>ogg,ogv,webm</string>
+		<string>ogg,ogv,webm</string>
+		<string>mp4,avi,mp3,rar,bin,bz2,gz,dmg,tgz,lha,lzh,exe,tar</string>
+		<string>mp4,avi,mp3,rar,bin,bz2,gz,dmg,tgz,lha,lzh,exe,tar</string>
+	</array>
+	<key>descriptions</key>
+	<array>
+		<string>Executable</string>
+		<string>Zip archive</string>
+		<string>Advanced Audio Coding</string>
+		<string>RAR archive</string>
+		<string>Audible Content</string>
+		<string>Microsoft Word file</string>
+		<string>GZip archive</string>
+		<string>MPEG Layer 3 Audio</string>
+		<string>Disk Image</string>
+		<string>PowerPoint presentation</string>
+		<string>Palm Digital Book</string>
+		<string>Disk Image</string>
+		<string>Zip archive</string>
+		<string>Gzipped tar archive</string>
+		<string>Stuffit Archive</string>
+		<string>Bittorrent file</string>
+		<string>MPEG Layer 3 Audio</string>
+		<string>Zip archive</string>
+		<string>Stuffit Archive</string>
+		<string>BinHex file</string>
+		<string>MPEG Layer 3 Audio</string>
+		<string>MPEG video</string>
+		<string>RAR archive</string>
+		<string>Audible Content</string>
+		<string>MPEG Layer 3 Audio</string>
+		<string>MPEG Layer 3 Audio</string>
+		<string>MPEG Layer 3 Audio</string>
+		<string>Windows Media Player Video</string>
+		<string>AVI video file</string>
+		<string>GZip archive</string>
+		<string>Disk Image</string>
+		<string>Compressed Tape ARchive</string>
+		<string>Disk Image</string>
+		<string>Shorten audio file</string>
+		<string>FLAC</string>
+		<string>Compact Pro archive</string>
+		<string>Streamload data</string>
+		<string>MPEG Layer 3 Audio</string>
+		<string>AVI video file</string>
+		<string>MPEG video</string>
+		<string>Shorten audio file</string>
+		<string>MacBinary file</string>
+		<string>Palm Digital Book</string>
+		<string>Zip archive</string>
+		<string>Disk Image</string>
+		<string>Disk Image</string>
+		<string>PDF document</string>
+		<string>Binary file</string>
+		<string>Quartz Composer file</string>
+		<string>MacBinary file</string>
+		<string>Windows Media Player Video</string>
+		<string>Microsoft Excel document</string>
+		<string>Stuffit Archive</string>
+		<string>bzip2 archive</string>
+		<string>Postscript file</string>
+		<string>AVI video file</string>
+		<string>Windows Media Player Video</string>
+		<string>Windows Media Player Video</string>
+		<string>MPEG-4 Video file</string>
+		<string>Disk Image</string>
+		<string>DVI file</string>
+		<string>bzip2 archive</string>
+		<string>bzip2 archive</string>
+		<string>MS-DOS Executable</string>
+		<string>RAR archive</string>
+		<string>Ogg Media</string>
+		<string>Ogg Video</string>
+		<string>Binary file</string>
+		<string>Binary file</string>
+	</array>
+	<key>mime</key>
+	<array>
+		<string>application/x-msdownload</string>
+		<string>application/x-zip</string>
+		<string>audio/x-aac</string>
+		<string>application/x-rar</string>
+		<string>audio/audible</string>
+		<string>application/msword</string>
+		<string>application/x-gzip</string>
+		<string>audio/x-mp3</string>
+		<string>application/disk-image</string>
+		<string>application/vnd.ms-powerpoint</string>
+		<string>application/x-pilot</string>
+		<string>application/force-download</string>
+		<string>application/x-zip-compressed</string>
+		<string>application/x-gtar</string>
+		<string>application/stuffit</string>
+		<string>application/x-bittorrent</string>
+		<string>audio/x-mpeg3</string>
+		<string>application/zip</string>
+		<string>application/x-stuffit</string>
+		<string>application/mac-binhex40</string>
+		<string>audio/mpeg</string>
+		<string>video/x-mpeg</string>
+		<string>application/x-rar-compressed</string>
+		<string>audio/x-audible</string>
+		<string>audio/mp3</string>
+		<string>application/x-octet-stream</string>
+		<string>audio/mpeg3</string>
+		<string>video/msvideo</string>
+		<string>application/x-msvideo</string>
+		<string>application/x-tar</string>
+		<string>application/x-apple-diskimage</string>
+		<string>application/x-compress</string>
+		<string>application/x-disk-image</string>
+		<string>audio/shorten</string>
+		<string>audio/x-flac</string>
+		<string>application/mac-compactpro</string>
+		<string>application/x-url-list</string>
+		<string>audio/x-mpeg</string>
+		<string>video/x-msvideo</string>
+		<string>video/mpeg</string>
+		<string>audio/x-shorten</string>
+		<string>application/x-macbinary</string>
+		<string>chemical/x-pdb</string>
+		<string>application/zip-compressed</string>
+		<string>application/x-diskcopy</string>
+		<string>application/dmg</string>
+		<string>application/pdf</string>
+		<string>application/octet-stream</string>
+		<string>application/x-quartzcomposer</string>
+		<string>application/macbinary</string>
+		<string>video/ms-wmv</string>
+		<string>application/vnd.ms-excel</string>
+		<string>application/x-sit</string>
+		<string>application/x-bzip2</string>
+		<string>application/postscript</string>
+		<string>video/avi</string>
+		<string>video/x-ms-wmv</string>
+		<string>video/x-ms-asf</string>
+		<string>video/mp4</string>
+		<string>application/binary</string>
+		<string>application/x-dvi</string>
+		<string>application/bzip2</string>
+		<string>application/x-bz2</string>
+		<string>application/x-dosexec</string>
+		<string>application/x-rar-compressed</string>
+		<string>application/ogg</string>
+		<string>video/ogg</string>
+		<string>application/x-download</string>
+		<string>application/download</string>
+	</array>
+</dict>
+</plist>
